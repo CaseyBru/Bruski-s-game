@@ -45,6 +45,7 @@ Construction and recruitment can also be controlled from the command dock at the
 ```bash
 npm run dev       # start the development server
 npm run build     # type-check and create a production build
+npm run build:static # create the lightweight repository preview in docs/
 npm run test      # run simulation tests
 npm run test:run  # run tests once
 npm run preview   # preview the production build
